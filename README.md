@@ -16,3 +16,7 @@ This repository contains:
 10. main.ipynb: a Jupyter notebook explaines the strategies we adopted solving the homework.
 
 N.b. there is no utils.py as we didn't use functions in more than one of the collector.py, parser.py and index.py files.
+
+
+Dataset:
+1. In urls.json there are all the URLS that we took from the data folders in the main repository of the Homework 3.
